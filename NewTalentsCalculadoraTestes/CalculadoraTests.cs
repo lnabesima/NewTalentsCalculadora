@@ -8,7 +8,7 @@ public class CalculadoraTests
 
     public CalculadoraTests()
     {
-        _calc = new Calculadora();
+        _calc = new Calculadora("23/10/2023");
     }
 
     [Theory]
